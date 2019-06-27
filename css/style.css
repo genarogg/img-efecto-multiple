@@ -61,6 +61,13 @@ body{
     border-bottom: 2px solid #fff;
 }
 
+.SecText p{
+    position: absolute;
+    top: 180px;
+    width: 250px;
+    border-left: 4px solid  #96FD00;
+    padding: 0 10px;
+}
 
 
 
