@@ -15,3 +15,9 @@ body{
     transform: translate(-50%, -50%);
 }
 
+.MainImage{
+    width: 600px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
