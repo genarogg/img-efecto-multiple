@@ -42,3 +42,13 @@ body{
     bottom: 30px;
 }
 
+.SecText{
+    color: #fff;
+    text-transform: uppercase;
+    padding: 0 20px;
+    opacity: 0;
+}
+
+
+
+
